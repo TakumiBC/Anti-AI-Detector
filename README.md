@@ -12,18 +12,23 @@ The Anti AI Detector is a unique, free tool that makes AI-written text sound mor
 
 ### Recommended
 
+- GPT-4o
+- GPT-4o-mini
 - GPT-4.0
 - GPT-3.5
 
 ### Not Recommended
 
+- o1
+- o1-mini
+- o3
 - Gemini
 - Claude
 - Grok
 
 ## Getting Started
 
-### For ChatGPT Plus Users
+### For ChatGPT Users
 
 1. Access the tool via this link: https://chat.openai.com/g/g-bmjRG4o6h-anti-ai-detector
 2. Select `/start` to initiate.
@@ -51,7 +56,7 @@ The Anti AI Detector is a unique, free tool that makes AI-written text sound mor
 
 ## Integration
 
-**Yapper**: A professional AI assistant for IB students that uses the Anti AI Detector to make its advice better. This tool helps students know their strengths and weaknesses, and gives smart tips based on specific criterias given by teachers.
+[**Yapper**](https://github.com/cytronicoder/yapper?tab=readme-ov-file): A professional AI assistant for IB students that uses the Anti AI Detector to make its advice better. This tool helps students know their strengths and weaknesses, and gives smart tips based on specific criterias given by teachers.
 
 ## License
 
